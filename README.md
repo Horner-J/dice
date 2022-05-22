@@ -1,4 +1,4 @@
-# Dice
+# Dice Roll
 
 ## Project Description
 Attempting to create a JavaScript function to simulate a roll of a 6 sided dice. This is a basic project to practice creating front end applications
