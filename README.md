@@ -1,8 +1,9 @@
 # Dice
 
 ## Project Description
-Attempting to create JavaScript function to simulate a roll of a 6 sided dice. This is a basic project to practice creating front end applications
-using HTML CSS and JavaScript combined.  
+Attempting to create a JavaScript function to simulate a roll of a 6 sided dice. This is a basic project to practice creating front end applications
+using HTML CSS and JavaScript combined. Essentially a __very__ basic random number generator that returns whole intergers with a user defined maximum 
+amount of probablity.
 
 ## Future Project Goals:
 
