@@ -8,7 +8,7 @@ amount of probablity.
 ## Future Project Goals:
 
 * User input choice of "dice"
-* ~~Basic dice icons instead of text~~
+* ~~Basic dice icons instead of text~~ done
 * Basic animations
 * Multi-user functionality
 * Yahtzee-like game with score keeping
