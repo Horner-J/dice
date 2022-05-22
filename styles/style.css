@@ -2,7 +2,7 @@
     --dark-background-color: #0d7272;
     --light-text-color: #f2f1ef;
     --button-color: #89c4f4;
-    --butt-text-color: #003636;
+    --button-text-color: #2e343b;
 }
 
 body {
@@ -22,4 +22,5 @@ body {
     background-color: var(--button-color);
     border: none;
     border-radius: 5px;
+    color: var(--button-text-color);
 }
